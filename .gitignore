@@ -3,3 +3,4 @@ __pycache__
 .git
 assignments
 data/london_crime_by_lsoa.csv
+deployment/

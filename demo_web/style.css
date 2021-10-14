@@ -1,0 +1,21 @@
+h1 {
+    color: navy;
+    font-family: 'Lucida Sans';
+}
+
+body {
+    background-color: wheat;
+}
+
+.text {
+    background-color: black;
+    color: white;
+}
+
+#button-spesial {
+    padding: 16px;
+    margin: 16px;
+    background-color: yellowgreen;
+    color: darkgreen;
+    border-radius: 6px;
+}
